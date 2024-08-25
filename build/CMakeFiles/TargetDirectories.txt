@@ -1,0 +1,3 @@
+/home/thow/Tho/lab/octree/src2/build/CMakeFiles/codec.dir
+/home/thow/Tho/lab/octree/src2/build/CMakeFiles/edit_cache.dir
+/home/thow/Tho/lab/octree/src2/build/CMakeFiles/rebuild_cache.dir
